@@ -13,7 +13,16 @@ A minimal, production-ready React Native template with:
 - Code quality tools (ESLint, Prettier)
 - Git hooks (Husky)
 
-### 2. Full-Stack Template (`/full-stack`)
+### 2. Todo List Template (`/todo-list`)
+A feature-complete todo list application template with:
+- TypeScript configuration
+- Clean and intuitive UI
+- Persistent storage using AsyncStorage
+- React Navigation setup
+- Basic CRUD operations
+- Modern component architecture
+
+### 3. Full-Stack Template (`/full-stack`)
 Complete full-stack mobile app template with:
 - React Native frontend
 - Node.js backend
@@ -22,7 +31,7 @@ Complete full-stack mobile app template with:
 - API integration
 - Deployment configuration
 
-### 3. E-commerce Template (`/e-commerce`)
+### 4. E-commerce Template (`/e-commerce`)
 E-commerce focused template with:
 - Product listings
 - Shopping cart
@@ -38,6 +47,9 @@ To use a template:
 ```bash
 # For base template
 git clone -b base https://github.com/nanushi-io/project-templates.git my-project
+
+# For todo list template
+git clone -b todo-list https://github.com/nanushi-io/project-templates.git my-project
 
 # For full-stack template
 git clone -b full-stack https://github.com/nanushi-io/project-templates.git my-project

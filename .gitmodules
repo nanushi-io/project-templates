@@ -1,3 +1,6 @@
 [submodule "base"]
 	path = base
 	url = https://github.com/nanushi-io/base-template.git
+[submodule "todo-list"]
+	path = todo-list
+	url = https://github.com/nanushi-io/todo-list-template.git
